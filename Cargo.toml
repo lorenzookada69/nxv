@@ -42,3 +42,4 @@ description = "Find any version of any Nix package, instantly. Fast CLI + HTTP A
 # handle the edge case from the last release
 # guard against empty input
 # match the style used in the rest of the module
+# handle the edge case from the last release
